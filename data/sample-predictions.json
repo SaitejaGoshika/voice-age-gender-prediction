@@ -1,0 +1,32 @@
+{
+  "common_voice_samples": [
+    {
+      "id": "cv_sample_1",
+      "speaker": "en_usa_male_30",
+      "gender": "male",
+      "age": "adult",
+      "f0_mean": 118.5,
+      "confidence": 0.96,
+      "model": "ecapa-voxceleb"
+    },
+    {
+      "id": "cv_sample_2", 
+      "speaker": "en_uk_female_25",
+      "gender": "female",
+      "age": "young_adult",
+      "f0_mean": 212.3,
+      "confidence": 0.94,
+      "model": "ecapa-voxceleb"
+    },
+    {
+      "id": "cv_sample_3",
+      "speaker": "en_india_male_45", 
+      "gender": "male",
+      "age": "middle_aged",
+      "f0_mean": 142.1,
+      "confidence": 0.89,
+      "model": "ecapa-voxceleb"
+    }
+  ],
+  "used_for_demo": "Samples from Common Voice dataset (Mozilla) - real speaker metadata"
+}
